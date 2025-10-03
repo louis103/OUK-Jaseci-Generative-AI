@@ -6,7 +6,6 @@ This project demonstrates a complete TicTacToe game implementation using the Jac
 
 - **`TicTacToe.jac`** - Interface file containing object definitions and method signatures
 - **`TicTacToe.impl.jac`** - Implementation file containing the actual game logic
-- **`TicTacToe_demo.jac`** - Simplified demo version for quick testing
 - **`README.md`** - This documentation file
 
 ## 🎮 Game Features
