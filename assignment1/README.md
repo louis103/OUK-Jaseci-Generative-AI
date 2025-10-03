@@ -36,6 +36,7 @@ This project demonstrates a complete TicTacToe game implementation using the Jac
 
 ### Option 1: Full Featured Game
 ```bash
+cd assignment1
 jac run TicTacToe.jac
 ```
 
